@@ -7,3 +7,6 @@ A full guide on how this game is built is avaialbe here: https://cs-496-webapp.a
 ### Demo
 * Desktop demo is avaiable under the /demo folder. Game data files must be in the same directory as the executable
 * Android APK is available
+
+### Screencap
+![alt tag](https://github.com/rappab/Fuzzy-Floaty/blob/master/img/fuzzyfloaty.jpg?raw=true)
